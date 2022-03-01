@@ -1,0 +1,28 @@
+{
+  "name": "crypto_arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catbrower/crypto_arbitrage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catbrower/crypto_arbitrage/issues"
+  },
+  "homepage": "https://github.com/catbrower/crypto_arbitrage#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.12"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
